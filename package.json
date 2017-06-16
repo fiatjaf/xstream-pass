@@ -1,0 +1,26 @@
+{
+  "name": "xstream-pass",
+  "version": "1.0.0",
+  "description": "Easily pass values from one point to streams listening at another.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiatjaf/xstream-pass.git"
+  },
+  "keywords": [
+    "stream",
+    "observable",
+    "event",
+    "cyclejs",
+    "cycle",
+    "react"
+  ],
+  "author": "fiatjaf",
+  "license": "ISC",
+  "peerDependencies": {
+    "xstream": "10"
+  },
+  "dependencies": {
+    "xstream": "^10.8.0"
+  }
+}
